@@ -9,5 +9,4 @@ return array(
     'P4ML\\Controllers\\Menu\\' => array($baseDir . '/classes/controller/menu'),
     'P4ML\\Controllers\\' => array($baseDir . '/classes/controller'),
     'P4ML\\' => array($baseDir . '/classes'),
-    'Dealerdirect\\Composer\\Plugin\\Installers\\PHPCodeSniffer\\' => array($vendorDir . '/dealerdirect/phpcodesniffer-composer-installer/src'),
 );
